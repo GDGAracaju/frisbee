@@ -56,7 +56,7 @@
 		
 		<!-- Test dependencies -->
 		<junit.version>4.11</junit.version>
-		<robotium.version>4.2</robotium.version>
+		<robotium.version>4.3.1</robotium.version>
 		<robolectric.version>2.1.1</robolectric.version>
 	</properties>
 	
@@ -106,7 +106,7 @@
 					<target>${java.version}</target>
 					<showWarnings>true</showWarnings>
 					<compilerArguments>
-					  <Xlint />
+					  <Xlint/>
 					</compilerArguments>
 				  </configuration>
 				</plugin>
